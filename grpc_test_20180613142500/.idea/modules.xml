@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/grb-clib/grb-clib.iml" filepath="$PROJECT_DIR$/grb-clib/grb-clib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-tingyun.iml" filepath="$PROJECT_DIR$/grpc-tingyun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-tingyun-client/grpc-tingyun-client.iml" filepath="$PROJECT_DIR$/grpc-tingyun-client/grpc-tingyun-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grpc-tingyun-server/grpc-tingyun-server.iml" filepath="$PROJECT_DIR$/grpc-tingyun-server/grpc-tingyun-server.iml" />
+    </modules>
+  </component>
+</project>
